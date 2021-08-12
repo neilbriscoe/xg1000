@@ -11,7 +11,7 @@ The main components soldered to the PCB are the following:
 
 **Rotary Encoders**
 
-2 x EC11 rotary encoders, d-shaft
+3 x EC11 rotary encoders, d-shaft
 
 ![image](https://user-images.githubusercontent.com/19530895/129251119-32532f4a-9b3c-4d7b-917f-fa9b2dfb9bf4.png)
 
