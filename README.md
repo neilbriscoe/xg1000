@@ -22,6 +22,8 @@ You will also need an AirManager license or know how to use MobiFlight.
 
 The PCB - https://github.com/neilbriscoe/xg1000/blob/main/pcb.md
 
+The Components - https://github.com/neilbriscoe/xg1000/blob/main/components.md
+
 The Photos - https://github.com/neilbriscoe/xg1000/blob/main/build-in-photos.md
 
 
