@@ -1,5 +1,6 @@
 # Garmin G1000 for XP11 and MSFS2020
 
+**12 August 2020 - This guide is work-in-progress - it will take me a while to take photos, get links, show code, show methods etc**
 
 This is a **GUIDE** to making a G1000 unofficial replica to be used with Air Manager (or MobiFlight) that uses Arduinos, a generic LCD display, several buttons, encoders... that can be made at home.
 
