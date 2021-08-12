@@ -7,7 +7,7 @@ This is a **GUIDE** to making a G1000 unofficial replica to be used with Air Man
 
 In total, this was made for approx £180, but a lot in time, patience and trial/error.
 
-## Skills Required
+## The Skills 
 
 You will need to be familiar with Arduinos, 3D printing, Laser cutting/engraving and understand basics of electronics.  
 Oh, and decent with a soldering irons and a good eye!  
@@ -17,6 +17,11 @@ You will also need an AirManager license or know how to use MobiFlight.
   AirManager: https://siminnovations.com 
   
   Mobiflight: https://www.mobiflight.com 
+  
+## The Build
+
+PCB - https://github.com/neilbriscoe/xg1000/blob/main/pcb.md
+
 
 ## Photos of finished(ish) Panel
 
