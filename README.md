@@ -1,4 +1,5 @@
-# Garmin G1000 for XP11 and MSFS2020
+# xBriscoe xG1000
+## Garmin G1000 for XP11 and MSFS2020
 
 **12 August 2020 - This guide is work-in-progress - it will take me a while to take photos, get links, show code, show methods etc**
 
